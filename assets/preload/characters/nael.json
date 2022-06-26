@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-377,
+				-194
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "KRABS IDLE DANCE"
+		},
+		{
+			"offsets": [
+				-400,
+				-122
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "KRABS NOTE LEFT"
+		},
+		{
+			"offsets": [
+				-386,
+				-148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "KRABS NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				-360,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "KRABS NOTE DOWN"
+		},
+		{
+			"offsets": [
+				-356,
+				-146
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "KRABS NOTE UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		204,
+		54,
+		48
+	],
+	"camera_position": [
+		-35,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}
